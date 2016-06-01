@@ -1,8 +1,10 @@
 What happens when you initialize a repository? Why do you need to do it?
-To create the folder where the meta data for tracking commits will be stored
+	To create the folder where the meta data for tracking commits will be stored
 
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
+	Allows you to specify which files we want git to track
+	Files or group of files can be track separately
 
 How can you use the staging area to make sure you have one commit per logical
 change?
